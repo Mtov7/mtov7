@@ -34,8 +34,8 @@
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](#) *(Add your link here)*  
-- [Email](#) *(Optional)*  
+- [LinkedIn](#) *(https://www.linkedin.com/in/manuel-tovar-17084b2aa/)*  
+- [Email](#) *(mantovbusiness@gmail.com)*  
 
 ---
 
