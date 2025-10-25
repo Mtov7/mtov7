@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Manuel Tovar  
 
-<!--
-**Mtov7/mtov7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **DePaul University Student** studying **Management Information Systems (MIS)** and **Business Analytics**.  
+📊 Passionate about **analyzing sports data**, **storytelling with numbers**, and uncovering insights that help explain what’s happening — and what could happen next.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+- 🧠 I love understanding how data tells stories that drive smarter decisions.  
+- ⚽ Avid fan of **sports, movies, video games, TV shows, comics, and reading**.  
+- 👨‍🎓 Involved in:
+  - **First Gen DePaul**  
+  - **Society of Hispanic Professional Engineers (SHPE)**  
+  - **Association of Latin Professionals in America (ALPFA)**  
+
+---
+
+## 🧰 Tools & Technologies
+
+| Category | Tools |
+|-----------|-------|
+| **Data Analysis** | SQL, R, RStudio, Power BI, Excel, SPSS Modeler |
+| **Programming / Web Dev** | HTML, CSS, JavaScript, Visual Studio Code |
+| **Visualization & Presentation** | Power BI, Excel Charts, PowerPoint |
+| **Business Tools** | Microsoft Word, Visio |
+
+---
+
+## 📈 What I’m Working On
+- Building **data dashboards** to visualize trends and insights.  
+- Exploring **sports analytics projects** using R and Power BI.  
+- Learning to create **interactive web dashboards** using HTML, CSS, and JavaScript.  
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](#) *(Add your link here)*  
+- [Email](#) *(Optional)*  
+
+---
+
+⭐ *“Data tells stories — I’m here to make sure they’re understood.”*  
